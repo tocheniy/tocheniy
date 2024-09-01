@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### In this github profile you can get acquainted with my works!
-#### Abote me:
+#### About me:
 - Like python
 - Always open to new things
 
