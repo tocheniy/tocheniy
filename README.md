@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hey man who's reading this 👋
 ### In this github profile you can get acquainted with my works!
-#### About me:
+
+### About me:
 - Like python
 - Always open to new things
 
